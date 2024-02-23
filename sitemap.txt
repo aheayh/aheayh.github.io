@@ -1,7 +1,7 @@
+http://example.com/album/index.html
 http://example.com/manifest.json
 http://example.com/essay/index.html
 http://example.com/categories/index-1.html
-http://example.com/album/index.html
 http://example.com/json/music.json
 http://example.com/music/index.html
 http://example.com/equipment/index.html
@@ -20,5 +20,5 @@ http://example.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/
 http://example.com/tags/Ubuntu/
 http://example.com/tags/ChatGPT/
 http://example.com/tags/Markdown/
-http://example.com/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/
 http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/
+http://example.com/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/
