@@ -1,3 +1,4 @@
+http://example.com/2024/02/23/%E7%BB%99%E7%94%B5%E8%84%91%E5%B0%8F%E7%99%BD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/
 http://example.com/album/index.html
 http://example.com/manifest.json
 http://example.com/essay/index.html
@@ -17,8 +18,10 @@ http://example.com/
 http://example.com/tags/AI/
 http://example.com/tags/%E8%AF%81%E4%B9%A6/
 http://example.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/
+http://example.com/tags/%E5%B0%8F%E7%99%BD%E6%8A%80%E5%B7%A7/
 http://example.com/tags/Ubuntu/
 http://example.com/tags/ChatGPT/
+http://example.com/tags/windows/
 http://example.com/tags/Markdown/
-http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/
 http://example.com/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/
+http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/

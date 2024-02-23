@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>给电脑小白的一些建议（Windows）</title>
+      <link href="/2024/02/23/%E7%BB%99%E7%94%B5%E8%84%91%E5%B0%8F%E7%99%BD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/"/>
+      <url>/2024/02/23/%E7%BB%99%E7%94%B5%E8%84%91%E5%B0%8F%E7%99%BD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="给电脑小白的一些建议（Windows）"><a href="#给电脑小白的一些建议（Windows）" class="headerlink" title="给电脑小白的一些建议（Windows）"></a>给电脑小白的一些建议（Windows）</h1><p>以下是本人日常使用电脑的出来的结论。<br>适用于对电脑不太熟悉的小白。</p><h1 id="储存空间的分配情况"><a href="#储存空间的分配情况" class="headerlink" title="储存空间的分配情况"></a>储存空间的分配情况</h1><p>如果硬盘空间小于 1 TB ，可以不进行分区；硬盘大于或等于 1 TB 则建议进行分区。</p><h2 id="不进行分区的情况"><a href="#不进行分区的情况" class="headerlink" title="不进行分区的情况"></a>不进行分区的情况</h2><p>不进行分区，安装应用时可以忽略掉安装途径的选择。存放其他内容的位置一般是 <code>C:\Users\你的用户名</code> 下面。</p><ul><li>在 <code>文件资源管理器</code> 的 <code>查看</code> 里面勾选 <code>文件拓展名</code> 和 <code>隐藏的项目</code>。</li><li>在 <code>C:\Users\你的用户名</code> 里的 <code>AppData</code> 右键选择 <code>固定到快速访问</code>（方便管理应用数据）。</li></ul><h2 id="进行分区的情况"><a href="#进行分区的情况" class="headerlink" title="进行分区的情况"></a>进行分区的情况</h2><p>将硬盘分成三个或者三个以上的分区。分区的储存空间分配按 C：D：E &#x3D; 2：3：4（推荐）或者 C：D：E &#x3D; 2：3：3 的比例来分。从第四个分区开始基本是用来存放特定的文件，如制作视频的素材等（最重要的数据，如果需要会进行加密），这些往往是单独插入的大容量硬盘进行使用的。</p><p><strong>C 盘：</strong>默认是系统盘，主要用来储存系统文件、软件的数据以及少部分不能选择安装位置的软件。如果将固态硬盘（SSD）分给 C 盘，那么电脑的启动速度将会快很多。</p><ul><li>在 <code>文件资源管理器</code> 的 <code>查看</code> 里面勾选 <code>文件拓展名</code> 和 <code>隐藏的项目</code>。</li><li>在 <code>C:\Users\你的用户名</code> 里的 <code>AppData</code> 右键选择 <code>固定到快速访问</code>（方便管理应用数据）。</li></ul><p><strong>D 盘：</strong>用来存放各种软件。将软件安装在 D 盘的文件夹里而不是 D 盘，比如想要安装 Chrome 浏览器在 D 盘，在安装路径里选择 <code>D:\Chrome</code> 而不是 <code>D:\</code> 。</p><ul><li>在 D 盘里创建一个 <code>APP</code> 和 <code>Games</code> 的文件夹，分别用来存放不用安装的应用（便携式应用）和游戏。</li></ul><p><strong>E 盘：</strong>存放各种杂物。</p><ul><li>将 <code>桌面</code>、<code>下载</code>、<code>图片</code> 等所有 <code>可移动的文件夹</code> 的储存位置转移到 E 盘，这些文件夹大部分很少用到。右键 <code>桌面</code> 文件夹，在 <code>属性</code> 里面有个 <code>位置选项</code>，点击移动即可选择移动到任何位置了，推荐在 E 盘创建一个叫 <code>User 你的用户名</code> 的文件夹，将这些文件夹移动到里面去。</li></ul><h1 id="储存空间的管理"><a href="#储存空间的管理" class="headerlink" title="储存空间的管理"></a>储存空间的管理</h1><p>带有 Windows 的文件夹和文件一定不能删，除非是你自己创建的。在删除某个文件夹前请确认是否可以进行卸载，如果可以卸载则进行卸载而不是直接删除。</p><p>在 <code>C:\Users\你的用户名</code> 里可能会有文件或文件夹的名字前面带 <code>.</code> 的，这些也是某些软件运行时留下来比较重要的数据，删除前请三思。</p><p>在 <code>AppData</code> 文件夹的里面有三个文件夹 <code>Local</code>、<code>LocalLow</code>、<code>Roaming</code>，里面装的东西就是软件的数据了，在运行一个新软件时可以点进去看看有什么新的文件夹产生，新产生的文件夹应该就是那个新软件的了。一般情况下，新文件夹的名字是新软件的名字或者是其公司的名字。卸载完软件记得到这里来删除其留下来的东西</p><p>在 C 盘里面有三个文件夹 <code>Program Files</code> 、<code>Program Files (x86)</code> 和 <code>ProgramData</code> ，前两个文件夹是安装软件时不修改安装途径的安装位置，最后一个文件夹的功能与 <code>AppData</code> 类似，但比 <code>AppData</code> 重要，在删除这三个文件夹里面的内容时要十分小心（需要管理员权限）。</p><p><code>C:\Windows\Temp</code> 和 <code>C:\Users\你的用户名\AppData\Local\Temp</code> 是临时文件夹（<strong>Temp</strong>orary Folder），里面的东西可以删，开启电脑和运行软件时会自动生成，可以在：设置-&gt;系统-&gt;储存，这里进行删除临时文件。临时文件主要是的作用是加快软件启动的速度。</p><h1 id="卸载软件"><a href="#卸载软件" class="headerlink" title="卸载软件"></a>卸载软件</h1><p>一般情况下在软件安装的位置里找到 <code>Uninstall.exe</code> 或者有 <code>Un</code> 开头的 exe 文件运行就是卸载了。卸载软件的方法还可以在系统设置里面卸载：设置-&gt;应用-&gt;应用和功能。</p><h1 id="注册表"><a href="#注册表" class="headerlink" title="注册表"></a>注册表</h1><p>除非十分了解注册表的作用以及结构，否则还请勿手动删除或修改注册表。</p><p><code>HKEY_LOCAL_MACHINE\SOFTWARE</code> 和 <code>HKEY_CURRENT_USER\SOFTWARE</code> 里面的注册表是软件的注册表。一般情况下卸载软件的同时卸载程序会删掉被卸载的软件的注册表，所以一般不用自己手动去删除。注册表没有回收站，一旦删除，不可撤回，删前请再三确认。</p><h1 id="安全"><a href="#安全" class="headerlink" title="安全"></a>安全</h1><p>一般来说来历不明的软件不给管理员权限，如有需要推荐将来历不明的软件放在 VMware 虚拟机里面运行。国内的软件，比如腾讯的微信、QQ 等会扫描用户隐私的软件，建议放在虚拟机里。也可以通过 <a href="https://www.virustotal.com/">Virustotal</a> 等可以扫描可疑文件的网站进行扫描。</p><p>如果是在浏览器上就能解决的事就不要下载软件。（其实可以把要联网的软件看作是一个被修改的浏览器，只是这个浏览器安全性不明）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂七杂八 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小白技巧 </tag>
+            
+            <tag> windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于证书（备忘录）</title>
       <link href="/2024/01/28/%E5%85%B3%E4%BA%8E%E8%AF%81%E4%B9%A6/"/>
       <url>/2024/01/28/%E5%85%B3%E4%BA%8E%E8%AF%81%E4%B9%A6/</url>
