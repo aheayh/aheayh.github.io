@@ -1,3 +1,4 @@
+http://example.com/air-conditioner/index.html
 http://example.com/equipment/index.html
 http://example.com/2024/02/23/%E7%BB%99%E7%94%B5%E8%84%91%E5%B0%8F%E7%99%BD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/
 http://example.com/album/index.html
