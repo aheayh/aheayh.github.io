@@ -148,7 +148,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,56 +156,56 @@
   
   <url>
     <loc>http://example.com/tags/AI/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E8%AF%81%E4%B9%A6/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%B0%8F%E7%99%BD%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Ubuntu/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/ChatGPT/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/windows/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Markdown/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -214,14 +214,14 @@
   
   <url>
     <loc>http://example.com/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
-    <lastmod>2024-05-01</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
